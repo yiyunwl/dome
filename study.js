@@ -17,10 +17,10 @@ console.log(Object.keys(num))
 
 console.log(num.length)
 
-var all=['小明','小黑','小红','小花','我是小白','小甜'];
+var all=['小明','小黑','小红','小花','我是小白','小甜甜'];
 
 
-// all.forEach(element=>{
+// all.forEach(element=>{d
 // console.log(element)
 // })
 
