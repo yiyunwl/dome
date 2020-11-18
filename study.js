@@ -61,7 +61,7 @@ console.log(w)
 function nums(value){
     return value >= 3;
 }
-var arrs = [1,2,3,4,5,6,7,8,'111111,hhh','wafwaaa'];
+var arrs = [1,2,3,4,5,6,7,8,'12312312,hhh','wafwaaa'];
 
 
 console.log(arrs.filter(nums))
