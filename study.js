@@ -61,7 +61,7 @@ console.log(w)
 function nums(value){
     return value >= 3;
 }
-var arrs = [1,2,3,4,5,6,7,8,643643644354354353253];
+var arrs = [1,2,3,4,5,6,7,8,'我更新了吗'];
 
 
 console.log(arrs.filter(nums))
